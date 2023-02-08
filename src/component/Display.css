@@ -1,0 +1,12 @@
+.dis {
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+    grid-gap: 50px;
+    padding: 5px 20px;
+    background-size: cover;
+    margin-left: 30px;
+}
+
+.dd {
+    background-color: aquamarine;
+}
